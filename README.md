@@ -2,8 +2,8 @@
 
 > **Zero-Terminal Setup Environment for OpenBMB VoxCPM Real-Time Speech Generation**
 
-[![Download Installer](https://img.shields.io/badge/Release-v1.0.4%20Stable-blue?style=for-the-badge&logo=windows)](https://your-storefront-link.com)
-[![License](https://img.shields.io/badge/Build-Pre--Compiled%20GUI-green?style=for-the-badge)](https://your-storefront-link.com)
+[![Download Installer](https://img.shields.io/badge/Release-v1.0.4%20Stable-blue?style=for-the-badge&logo=windows)](https://gatamike.gumroad.com/l/voxcpm-windows-desktop-installer).
+[![License](https://img.shields.io/badge/Build-Pre--Compiled%20GUI-green?style=for-the-badge)](https://gatamike.gumroad.com/l/voxcpm-windows-desktop-installer)
 
 ---
 
@@ -30,8 +30,8 @@ Due to binary packaging host limits, compiled `.exe` and `.dmg` installers are d
 
 | OS Platform | Architecture | Status | Package Link |
 |---|---|---|---|
-| **Windows 10 / 11** | x64 / NVIDIA CUDA | Stable (v1.0) | [**Download 1-Click Installer ($49)**](https://your-storefront-link.com) |
-| **macOS** | Apple Silicon (M1/M2/M3) | Stable (v1.0) | [**Download 1-Click Installer ($49)**](https://your-storefront-link.com) |
+| **Windows 10 / 11** | x64 / NVIDIA CUDA | Stable (v1.0) | [**Download 1-Click Installer ($49)**](https://gatamike.gumroad.com/l/voxcpm-windows-desktop-installer) |
+| **macOS** | Apple Silicon (M1/M2/M3) | Stable (v1.0) | [**Download 1-Click Installer ($49)**](https://gatamike.gumroad.com/l/voxcpm-windows-desktop-installer) |
 
 > *Note: Build packages are capped at 50 download licenses per release cycle to maintain fast model weight download speeds.*
 
